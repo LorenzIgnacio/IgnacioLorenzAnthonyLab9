@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "256638322757",
+    "firebase_url": "https://ignaciolorenzanthonylab9.firebaseio.com",
+    "project_id": "ignaciolorenzanthonylab9",
+    "storage_bucket": "ignaciolorenzanthonylab9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256638322757:android:dd971f2bff627266",
+        "android_client_info": {
+          "package_name": "com.ignacio.lorenz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256638322757-v4ek975k46iqgurtjdg600uprhqs0ni3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScF8aojFeuPBzGXtX457vnJ8qPS0eN_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
